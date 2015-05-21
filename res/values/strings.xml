@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Headset</string>
+    <string name="log">耳机插拔提示</string>
+    <string name="introduce">简介:\nSmart Headset是一款智能耳机应用软件。</string>
+
+</resources>
